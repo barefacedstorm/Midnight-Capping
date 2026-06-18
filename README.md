@@ -2,10 +2,12 @@
 
 A reskinned and enhanced version of the Capping battleground timer addon for World of Warcraft, featuring a void/purple aesthetic and restored functionality.
 
+<img width="737" height="1536" alt="WoWScrnShot_061826_005936" src="https://github.com/user-attachments/assets/15fa5076-5369-4a8f-afd5-5501531b04ca" />
+
 ## Features
 
 ### Click-to-Report Timer Bars
-Timer bars are fully interactive again. Hold shift and click any active capture bar to instantly pre-fill a chat message alerting your team about an enemy capping a node. Uses Blizzard's `ChatFrame_OpenChat` method for full compatibility with the secure frame system.
+Timer bars are fully interactive again. **Hold shift and click** any active capture bar to instantly pre-fill a chat message alerting your team about an enemy capping a node. Uses Blizzard's `ChatFrame_OpenChat` method for full compatibility with the secure frame system.
 
 ### Minimap Button
 A draggable minimap icon 
